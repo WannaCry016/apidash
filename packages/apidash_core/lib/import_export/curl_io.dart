@@ -1,7 +1,5 @@
 import 'package:curl_parser/curl_parser.dart';
-import '../consts.dart';
-import '../models/models.dart';
-import '../utils/utils.dart';
+import 'package:genai/genai.dart';
 
 class CurlIO {
   List<HttpRequestModel>? getHttpRequestModelList(String content) {

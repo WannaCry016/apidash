@@ -1,8 +1,5 @@
+import 'package:genai/genai.dart';
 import 'package:postman/postman.dart' as pm;
-import 'package:seed/seed.dart';
-import '../consts.dart';
-import '../models/models.dart';
-import '../utils/utils.dart';
 
 class PostmanIO {
   List<(String?, HttpRequestModel)>? getHttpRequestModelList(String content) {

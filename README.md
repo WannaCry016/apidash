@@ -1,19 +1,7 @@
 # API Dash ⚡️
 
-[![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/bBeSdtJ6Ue)
-
-### 🚨🚨 API Dash is participating in GSoC 2025! Check out the details below:
-
-<img src="https://github.com/foss42/apidash/assets/615622/493ce57f-06c3-4789-b7ae-9fa63bca8183" alt="GSoC" width="500">
-
-| | Link |
-|--|--|
-| Learn about GSoC | [Link](https://summerofcode.withgoogle.com) |
-| API Dash GSoC Page | [Link](https://summerofcode.withgoogle.com/programs/2025/organizations/api-dash) |
-| Project Ideas List | [Link](https://github.com/foss42/apidash/discussions/565) |
-| Application Guide | [Link](https://github.com/foss42/apidash/discussions/564) |
-| Discord Channel | [Link](https://discord.com/invite/bBeSdtJ6Ue) |
-
+<a href="https://discord.com/invite/bBeSdtJ6Ue" target="_blank"><img src="https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server Invite"></a><br>
+<img src="https://trendshift.io/api/badge/repositories/9734" alt="foss42%2Fapidash | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/> &nbsp;&nbsp;&nbsp; <a href="https://summerofcode.withgoogle.com/programs/2025/organizations/api-dash" target="_blank"><img src="https://github.com/foss42/apidash/assets/615622/493ce57f-06c3-4789-b7ae-9fa63bca8183" alt="GSoC" width="400"></a>
 
 ### Please support this initiative by giving this project a Star ⭐️
 
@@ -93,7 +81,8 @@ API Dash can be downloaded from the links below:
 | --- | --- |
 | HTTP | ✅ |
 | GraphQL | ✅ |
-| SSE | https://github.com/foss42/apidash/issues/116 | 
+| SSE/Streaming | ✅ | 
+| AI | ✅ | 
 | WebSocket | https://github.com/foss42/apidash/issues/15 |
 | MQTT | https://github.com/foss42/apidash/issues/115 |
 | gRPC | https://github.com/foss42/apidash/issues/14 |
@@ -103,9 +92,9 @@ API Dash can be downloaded from the links below:
 | Postman | ✅ |
 | cURL | ✅ |
 | Insomnia | ✅ | 
-| OpenAPI | https://github.com/foss42/apidash/issues/121 |
+| OpenAPI | ✅ |
 | hurl | https://github.com/foss42/apidash/issues/123 |
-| HAR | https://github.com/foss42/apidash/issues/122 |
+| HAR | ✅ |
 
 
 **↗️ Create & Customize API Requests**
